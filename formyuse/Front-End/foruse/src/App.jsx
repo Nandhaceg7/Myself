@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API_URL = "";
+const API_URL = ":5000";
 
 function App() {
   const [selectedFile, setSelectedFile] = useState(null);
