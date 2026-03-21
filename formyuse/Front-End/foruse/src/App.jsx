@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API_URL = "52.140.117.131:5000";
+const API_URL = "https://myself-rl7o.onrender.com";
 
 function App() {
   const [selectedFile, setSelectedFile] = useState(null);
