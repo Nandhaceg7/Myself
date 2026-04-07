@@ -110,7 +110,7 @@ function App() {
       <div className="glass-container">
         <header>
           <h1>
-            cloud<span className="gradient-text">Vault</span>
+            Hariharan<span className="gradient-text">Vault</span>
           </h1>
         </header>
 
