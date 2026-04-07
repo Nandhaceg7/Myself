@@ -110,7 +110,7 @@ function App() {
       <div className="glass-container">
         <header>
           <h1>
-            Cloud<span className="gradient-text">Vault</span>
+            cloud<span className="gradient-text">Vault</span>
           </h1>
         </header>
 
